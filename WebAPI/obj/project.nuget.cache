@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aSoVHzPagQfb4QYQLAcNNulRdks8Kq/MP4GPIswW0TBlzPtpAFyNyV9jHtr7i2Ej9JAFcbFeBz5YPaSEecxFig==",
+  "dgSpecHash": "w4YrrH0E/APD0u6GGJNOuBZ7qYYNP8CdEfKaQaBMg6SzKAlPIyrfH4bdW0AmDImqlja/8Hn/jo9evGmHCL/Q7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Zare\\source\\repos\\WebAPI\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zare\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Zare\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.12\\microsoft.aspnetcore.jsonpatch.5.0.12.nupkg.sha512",
     "C:\\Users\\Zare\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.12\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.12.nupkg.sha512",
+    "C:\\Users\\Zare\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\Zare\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Zare\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\Zare\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

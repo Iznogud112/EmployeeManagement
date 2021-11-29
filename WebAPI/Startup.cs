@@ -44,6 +44,13 @@ namespace WebAPI
                 .AddNewtonsoftJson(options => options.SerializerSettings.ContractResolver = new DefaultContractResolver());
 
             services.AddControllers();
+            services.AddApiVersioning(config => 
+            {
+                config.DefaultApiVersion = new ApiVersion(2, 0);
+                config.AssumeDefaultVersionWhenUnspecified = true;
+                //config.ReportApiVersions = true;
+            });
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebAPI", Version = "v1" });
